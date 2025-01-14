@@ -25,6 +25,9 @@ The following is a tentative timeline for carrying out this research in Fall 202
 ### Dataset: Osteoarthritis Initiative
 The entire dataset (00m) analyzed during the current study is publicly available at the Osteoarthritis Initiative (OAI). You can apply for access here: https://nda.nih.gov/oai. 
 
+### Weights
+Pretrained weights used in research can be found here: https://drive.google.com/drive/folders/12Ry4EG5V2iPfGti9qelgbLDWcM1nTBIa?usp=sharing  
+Obtained weights can be found here: https://drive.google.com/drive/folders/1QdKP0tGo3bA0NGwKphQfShT-a5NCxcWW?usp=sharing
 ### Publication
 This contribution is fully explained in the following manuscript, which is now under review at the [TBD] Any publication using this work would require to cite the following paper:
 
